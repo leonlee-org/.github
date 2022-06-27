@@ -3,7 +3,7 @@
 This organazation is the space for leonlee's (李梁) research results.
 
 
-Publications
+### Selected Publications
 
 - **Leon Lee**, Siphrey Xie, Yunus Ma, and Shimin Chen. 2022. Index checkpoints for instant recovery in in-memory database systems. Proc. VLDB Endow. 15, 8 (April 2022), 1671–1683. [[DOI](https://doi.org/10.14778/3529337.3529350)]
 - Yunus Ma, Siphrey Xie, Henry Zhong, **Leon Lee**, and King Lv. 2022. HiEngine: How to Architect a Cloud-Native Memory-Optimized Database Engine. In Proceedings of the 2022 International Conference on Management of Data (SIGMOD '22). Association for Computing Machinery, New York, NY, USA, 2177–2190. [[DOI](https://doi.org/10.1145/3514221.3526043)]
